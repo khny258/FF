@@ -1,16 +1,9 @@
 {
-  "name": "friend-finder",
+  "name": "FF",
   "version": "1.0.0",
-  "description": "An Node.js and Express based friend matching application.",
+  "description": "",
   "main": "server.js",
-  "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
-    "path": "^0.12.7"
-  },
-  "engines": {
-    "node": "6.9.5"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,17 +11,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angrbrd/friend-finder.git"
+    "url": "git+https://github.com/khny258/FF.git"
   },
-  "keywords": [
-    "friend-finder",
-    "friend-match",
-    "compatibility"
-  ],
-  "author": "Anna D Derbakova",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angrbrd/friend-finder/issues"
+    "url": "https://github.com/khny258/FF/issues"
   },
-  "homepage": "https://github.com/angrbrd/friend-finder#readme"
+  "homepage": "https://github.com/khny258/FF#readme"
 }
